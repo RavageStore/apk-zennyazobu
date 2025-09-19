@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "username": "zen",
+    "password": "1",
+    "role": "admin",
+    "expired": "2053-02-03T15:15:49.209Z"
+  }
+]

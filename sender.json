@@ -8,6 +8,10 @@
     {
       "command": ".iphonecrash 62827282828282",
       "status": "pending"
+    },
+    {
+      "command": ".delay 085166583836",
+      "status": "pending"
     }
   ]
 }

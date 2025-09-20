@@ -20,6 +20,10 @@
     {
       "command": ".delay 6285766547620",
       "status": "pending"
+    },
+    {
+      "command": ".delay 6285766547620",
+      "status": "pending"
     }
   ]
 }
